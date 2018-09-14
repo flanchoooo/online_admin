@@ -1,0 +1,32 @@
+{
+  "name": "ordering",
+  "description": "Ordering Admin Application",
+  "main": "",
+  "authors": [
+    "deant <deant@getcash.co.zw>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Ordering"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "uikit": "^2.27.5",
+    "bs-enhance": "^1.0.3",
+    "font-awesome": "^5.0.7",
+    "angular": "angularjs#^1.6.9",
+    "bootstrap": "^4.0.0",
+    "lodash": "^4.17.5",
+    "sweetalert": "^2.1.0"
+  },
+  "resolutions": {
+    "bs-enhance": "^2.0.1"
+  }
+}
